@@ -7,7 +7,7 @@ Browser and thus can be very easy to exploit.
 ## Testing and Exploiting LFI
 
 To test for LFI, Damn Vulnerable Web Appliation was utilized.
-You can check out the walkthoughs here.
+You can check out the walkthoughs [here](https://medium.com/@mysticscripter/testing-for-local-file-inclusion-vulnerability-part-1-1d5dd0bc35d).
 
 ## References Utilized
 
